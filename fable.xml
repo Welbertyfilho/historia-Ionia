@@ -1,7 +1,7 @@
 <fable>
 	<page background="bg.png" soundtrack="song.mp3">
         <agent x="200" y="280" text="Bem vindo a página 1"/>
-        <a
+        <agent x="400" y="0" vídeo="dancing_fish.mp4" width
   
     
   </page>
