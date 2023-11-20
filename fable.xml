@@ -2,7 +2,7 @@
 	<page background="bg.png" soundtrack="song.mp3">
         <agent x="3" y="280" text="Lhe apresento o Yasuo do Cerrado:"/>
         <agent x="400" y="0" img="Cactus (3).png" width="102" height="182"/>
-        <agent x="0" y=""
+        <agent x="0" y="200" img="491e4d8143052bb09ff9193e78214455"
   
     
   </page>
