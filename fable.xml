@@ -1,7 +1,7 @@
 <fable>
 	<page background="bg.png" soundtrack="song.mp3">
-        <agent x="200" y="280" text="Bem vindo a página 1"/>
-        <agent x="400" y="0" img="Cactus (3).png" width="42" height="42"/>
+        <agent x="3" y="280" text="Bem vindo a página 1"/>
+        <agent x="400" y="0" img="Cactus (3).png" width="102" height="182"/>
   
     
   </page>
