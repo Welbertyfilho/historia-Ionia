@@ -1,9 +1,23 @@
 <fable>
-	<page background="ionia-01.jpg".jpg" soundtrack="song.mp3">
-        <agent x="3" y="280" text="Lhe apresento o Yasuo do Cerrado:"/>
-        <agent x="400" y="0" img="Cactus (3).png" width="102" height="182"/>
-        <agent x="0" y="00" img="491e4d8143052bb09ff9193e78214455.png" width="200" height="150"/>
-  
     
-  </page>
+	<page background="bg.png">
+
+        <agent img="Cactus (3).png" x="1" y="1" width="80" height="100"/>
+        <agent img="cactus.png" x="80" y="80" width="80" height="100"/>
+        <agent img="Bone (1).png" x="80" y="30" width="80" height="50"/>
+        <agent img="Skeleton.png" x="80" y="1" width="80" height="30"/>
+        <agent img="SnowMan.png" x="200" y="1" width="80" height="150"/>
+        <agent text="algo de errado, não está certo..." color="blue" x="15" y="400"/>
+        <agent img="Sign_2.png" x="400" y="1" width="100" height="100" on-touch="_NEXT_PAGE"/>
+ 
+    </page>
+    
+    <page background="bg_neve.png">
+
+        <agent text="algo de certo, não está errado" color="white" x="15" y="420"/>
+        <agent img="SnowMan.png" x="200" y="1" width="80" height="150"/>
+        <agent img="Sign_1.png" x="1" y="1" width="100" height="100" on-touch="_PREV_PAGE"/>
+        <agent img="Crystal.png" x="400" y="1" width="80" height="100"/>
+        
+    </page> 
 </fable>
